@@ -1,7 +1,8 @@
 from sympy.ntheory.generate import prime
 
 def solve():
-    print(prime(10001))
+    n = 10001
+    print(prime(n))
 
 if __name__ == '__main__':
     solve()
