@@ -15,3 +15,6 @@ Project Euler
 
 ### [PE5](http://projecteuler.net/problem=5) Smallest multiple
 最大公約数．
+
+### [PE6](http://projecteuler.net/problem=6) Sum square difference
+解析的に求まる．
