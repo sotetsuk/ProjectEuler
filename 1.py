@@ -1,8 +1,3 @@
-"""
-http://projecteuler.net/problem=1
-
-"""
-
 def solve():
 
 
