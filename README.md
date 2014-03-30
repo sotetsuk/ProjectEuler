@@ -21,3 +21,6 @@ Project Euler
 
 ### [PE7](http://projecteuler.net/problem=7) 10001st prime
 n番目の素数．Sympyで一発．
+
+### [PE8](http://projecteuler.net/problem=8) Largest product in a series
+ループを回すだけ．
