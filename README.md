@@ -49,4 +49,8 @@ Project Euler
 ### [PE16](http://projecteuler.net/problem=16) Power digit sum
 2014/4/11 Pythonの多倍長演算でOK.
 
-### [PE17](http://projecteuler.net/problem=17) 
+### [PE17](http://projecteuler.net/problem=17)
+2014/5/5
+
+### [PE18](http://projecteuler.net/problem=18)
+2014/6/8 深さ優先探索．Goで書いてみた．
