@@ -51,3 +51,6 @@ Project Euler
 
 ### [PE17](http://projecteuler.net/problem=17) Number letter counts
 2014/5/6 単純に場合分け
+
+### [PE18](http://projecteuler.net/problem=18)
+2014/6/8 深さ優先探索．Goで書いてみた．
