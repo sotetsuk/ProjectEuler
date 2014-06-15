@@ -63,3 +63,6 @@ Project Euler
 
 ### [PE21](http://projecteuler.net/problem=21) Amicable numbers
 2014/6/12 やるだけ．Goで書いた．
+
+### [PE22](http://projecteuler.net/problem=22) Names scores
+2014/6/15 やるだけ．
