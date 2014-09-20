@@ -52,17 +52,11 @@ Project Euler
 ### [PE17](http://projecteuler.net/problem=17) Number letter counts
 2014/5/6 単純に場合分け．
 
-### [PE18](http://projecteuler.net/problem=18) Maximum path sum I
-2014/6/8 深さ優先探索．Goで書いてみた．
-
 ### [PE19](http://projecteuler.net/problem=19) Counting Sundays
 2014/6/12 日曜のカウンティング．Pythonのdatetimeライブラリで．
 
 ### [PE20](http://projecteuler.net/problem=20) Factorial digit sum
 2014/6/12 Pythonのmath.factorialと多倍長演算で．
-
-### [PE21](http://projecteuler.net/problem=21) Amicable numbers
-2014/6/12 やるだけ．Goで書いた．
 
 ### [PE22](http://projecteuler.net/problem=22) Names scores
 2014/6/15 やるだけ．
